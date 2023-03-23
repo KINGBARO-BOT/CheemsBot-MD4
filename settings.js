@@ -3,7 +3,7 @@
 //or copy the codes/script,
 //pls give credit
 //no credit? i will take action immediately
-//© 2022 Xeon Bot Inc. Cheems Bot MD
+//© 2022 Xeon Bot Inc. BARO-BOT MD
 //Thank you to Lord Buddha, Family and Myself
 //════════════════════════════//
 //recode kar ke youtube pe upload kar rhe hai ya
@@ -61,9 +61,9 @@ global.socialm = "GitHub: ABDUL RAHMAN" //ur github or insta name
 global.location = "Egypt, Cairo, Aizawl" //ur location
 
 //bot bomdy 
-global.owner = ['9660540637980']
-global.ownertag = '9660540637980' //ur tag number
-global.botname = 'BOT ABDUL RAHMAN🐼🍷 ٫' //ur bot name
+global.owner = ['+212 691-065725']
+global.ownertag = '+212 691-065725' //ur tag number
+global.botname = 'BARO-BOT🐼🍷 ٫' //ur bot name
 global.linkz = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv" //ur website to be displayed
 global.botscript = 'https://chat.whatsapp.com/LXZnV3rPFqD4ryPvG0Cyvvv' //script link
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['9660540637980'] //ur premium numbers
+global.premium = ['+212 688-495208'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
